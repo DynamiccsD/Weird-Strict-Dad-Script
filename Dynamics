@@ -1,0 +1,43 @@
+local kavoUi = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
+local window = kavoUi.CreateLib("M
+DynaMics ","BloodTheme")
+ 
+---Tabs
+
+local Tab1 = Window:NewTab("main")
+local Section =1 Tab1:NewSection("HOUSE")
+local Tab2 = Window:NewTab("Other Ui's (UseFul)"
+local Section = Tab2:NewSection("Made by DynamicScript")
+
+-- TRTY
+
+Tab1Section:NewButton("Get Gas", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BloxiYT/Diamond/main/AdoptMe"))()
+end)
+
+Tab1Section:NewButton("Get Noodles", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BloxiYT/Diamond/main/AdoptMe"))()
+end)
+
+Tab1Section:NewButton("Get Glass of Water", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BloxiYT/Diamond/main/AdoptMe"))()
+end)
+
+Section:UpdateSection("SHIP")
+
+Tab1Section:NewButton("Gas Refill", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BloxiYT/Diamond/main/AdoptMe"))()
+end)
+
+Tab1Section:NewButton("Sleep", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BloxiYT/Diamond/main/AdoptMe"))()
+end)
+
+Tab1Section:NewButton("Eat Noodles", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BloxiYT/Diamond/main/AdoptMe"))()
+end)
+
+Tab1Section:NewButton("Drink Water", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BloxiYT/Diamond/main/AdoptMe"))()
+end)
+
